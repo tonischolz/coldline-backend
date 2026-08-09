@@ -1,0 +1,15 @@
+{
+  "clientId": "coldline-ice",
+  "businessName": "Coldline Ice Co.",
+  "businessType": "ice_delivery",
+  "hours": "5:00 AM - 11:00 PM daily",
+  "deliveryZone": "Metro area - bars, restaurants, and event venues",
+  "products": [
+    { "name": "Bagged cubed ice", "unit": "bag (10 lb)" },
+    { "name": "Block ice", "unit": "block" },
+    { "name": "Dry ice", "unit": "lb" }
+  ],
+  "minimumOrder": "50 lbs / 5 bags",
+  "dailyCapacityBags": 400,
+  "systemPromptExtra": "This business primarily serves bars, restaurants, and event venues with both one-time and standing recurring deliveries (e.g. '200 lbs every Friday'). Always ask whether an order is one-time or recurring."
+}
